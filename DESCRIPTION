@@ -1,10 +1,10 @@
 Package: TempConvAllGP
-Title: This package helps in converting the Temperature among Kelvin, Celsius, and Fahrenheit.
-Version: 0.0.0.9000
+Title: This package helps in converting the Temperatures among degrees Kelvin, Celsius, and Fahrenheit.
+Version: 1.0.0.0001
 Authors@R: 
     person("Gokuleshwor", "Pokharel", , "pokharelg@vcu.edu", role = c("aut", "cre"))
 Description: This package has six functions: K_to_C (Kelvin to Celsius), K_to_F (Kelvin to Fahrenheit), F_to_C, C_to_F, F_to_K and K_to_F.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
+License: Written under HW_2 for BIOS 524 - VCU.
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

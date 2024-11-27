@@ -1,9 +1,8 @@
 Package: TempConvAllGP
-Title: What the Package Does (Convert temperature among Kelvin, Celsius and Fahrenheit.)
+Title: Convert temperature among Kelvin, Celsius and Fahrenheit.
 Version: 0.0.0.9000
-Authors@R: 
-    person("Gokuleshwor", "Pokharel", "pokharelg@vcu.edu", role = c("aut", "cre"))
-Description: What the package does (This package can be used to convert Temperature from Kelvin to Celsius, Kelvin to Fahrenheit, Celsius to Kelvin, Fahrenheit to Kelvin, Celsius to Fahrenheit, and from Fahrenheit to Celsius. After installing the Package: Type without quotes in Console: "?K_to_C" or "?F_to_C" or "?K_to_F" or others to see examples. This package was written for the completion of Homework Two for BIOS 524 at VCU during Fall 2024 Semester.).
+Authors@R: person("Gokuleshwor", "Pokharel", "pokharelg@vcu.edu", role = c("aut", "cre"))
+Description: This package can be used to convert Temperature from Kelvin to Celsius, Kelvin to Fahrenheit, Celsius to Kelvin, Fahrenheit to Kelvin, Celsius to Fahrenheit, and from Fahrenheit to Celsius. After installing the Package: Type without quotes in Console: "?K_to_C" or "?F_to_C" or "?K_to_F" or others to see examples.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8

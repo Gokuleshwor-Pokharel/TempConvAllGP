@@ -3,7 +3,7 @@ Title: This package helps in converting the Temperatures among degrees Kelvin, C
 Version: 1.0.0.0001
 Authors@R: 
     person("Gokuleshwor", "Pokharel", , "pokharelg@vcu.edu", role = c("aut", "cre"))
-Description: This package has six functions: K_to_C (Kelvin to Celsius), K_to_F (Kelvin to Fahrenheit), F_to_C, C_to_F, F_to_K and K_to_F.
+Description: This package has six functions: K_to_C (Kelvin to Celsius), K_to_F (Kelvin to Fahrenheit), C_to_K, F_to_K, C_to_F and F_to_C.
 License: Written under HW_2 for BIOS 524 - VCU.
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

@@ -1,5 +1,5 @@
 Package: TempConvAllGP
-Title: What the Package Does (Convert temperature among Kelvin, Celsius and Fahrenheit)
+Title: What the Package Does (Convert temperature among Kelvin, Celsius and Fahrenheit.)
 Version: 0.0.0.9000
 Authors@R: 
     person("Gokuleshwor", "Pokharel", , "pokharelg@vcu.edu", role = c("Student", "Teaching Assistant"))
